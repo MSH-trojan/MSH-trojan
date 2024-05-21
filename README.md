@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on IT projects, game developing, Designing a website, graphic designings, software developing, etc!
 - 📫 How to reach me? my E-mail temporary: Mohammad.shahnaei@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: a fun fact will always make the harsh truths become funny. that's why its called fun fact!
+- ⚡ Fun fact: a fun fact will always make the harsh truths sound funny. that's why its called fun fact!
 
 <!---
 MSH-trojan/MSH-trojan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
